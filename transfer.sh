@@ -1,4 +1,5 @@
-#!/bin/bash
+# Add this file to .bashrc
+# then simply use "transfer file.ext" from the command line
 
 transfer() {
 
